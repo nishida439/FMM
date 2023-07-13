@@ -2,7 +2,6 @@
 import numpy
 from matplotlib import pyplot, rcParams
 from mpl_toolkits.mplot3d import Axes3D
-from numba import autojit
 
 
 #----- class Point definition-----#
